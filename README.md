@@ -11,4 +11,4 @@ This frontend project is developed in order to make good practice in frontend we
 ## Output
       
 
-![Output](images/capture.png)
+![Output](images/Capture.PNG)
